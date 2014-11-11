@@ -1,0 +1,79 @@
+﻿#dnnLocalization .megaborder {
+    min-width: 910px;
+    width: 910px;
+    left:-240px;
+    
+}
+
+a:hover {background-color:#ffffff; text-decoration:none;} 
+a.tooltip  span {display:none; padding:2px 3px; margin-left:-20px;margin-top:20px; width:100px;}
+a.tooltip:hover span{display:inline; position:absolute; border:1px solid #cccccc; background:#eee; color:#000;}
+
+.checkbox input {}
+
+#DnnPages input {padding:1px ! important;}
+
+#DnnPages div.container 
+{
+    overflow:auto;
+    margin: 0px auto; 
+    margin-bottom: 10px;
+    
+}
+
+.SkinObject {display:none}
+
+.colText{float:left;width:155px;height:20px;}
+
+
+#DnnPages div.table { 
+        display:block; 
+        width:1250px;         
+ }
+ 
+ #DnnPages div.tr { 
+        display:block; 
+        clear:both;              
+        height:30px;
+}
+ 
+ 
+ #DnnPages div.td { 
+        
+        display:block; 
+        float:left;
+        /*width:220px;       */
+        padding:5px;
+        border-bottom: 1px solid #CCCCCC;
+        border-left: 1px solid #ccc;
+        
+ }
+ 
+ #DnnPages .PageName
+ {
+    width:148px;         
+ }
+ 
+ #DnnPages .PageTitle
+ {
+ width:95%;         
+ display: inline;
+ }
+ 
+ #DnnPages .PageDescription
+ {
+width:148px;         
+padding:1px;
+ }
+ 
+ #DnnPages .AddToPages
+ {
+width:148px;              
+overflow: auto;
+height: 200px;
+     }
+     
+.colDetachedDefault, .colTranslatedDefault
+{
+    display:none
+    }
